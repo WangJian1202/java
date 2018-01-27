@@ -8,9 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>git学习</title>
   </head>
-  <body>$END$
+  <body>学好git轻轻松松拿下工作
 
   </body>
 </html>
